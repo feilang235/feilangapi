@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#CRTDIR=$(pwd)
 currentTime=`date "+%F %T"`
 echo $currentTime > record.txt
 
